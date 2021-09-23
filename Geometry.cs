@@ -2,7 +2,7 @@
 
 namespace Geometric
 {
-    public class Geometry
+    public static class Geometry
     {
         /// <summary>
         /// Поиск площади
